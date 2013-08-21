@@ -1,3 +1,5 @@
+WARNING: This package is not yet stable.  Use at your own risk.
+
 Ember template compiler middleware.
 
 ##Features
