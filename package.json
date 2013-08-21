@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Jim Hall",
+    "email": "jim.hall.dev@gmail.com"
+  },
+  "name": "ember-template-middleware",
+  "description": "Ember template compiler middleware.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimbol/ember-template-middleware"
+  },
+  "keywords": [
+    "Ember.js",
+    "Handlebars.js",
+    "middleware",
+    "precompiler"
+  ],
+  "main": "./lib/main",
+  "engines": {
+    "node": ">=v0.8.1"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "dependencies": {
+    "ember-template-compiler": "*",
+    "mkdirp": "*"
+    },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
