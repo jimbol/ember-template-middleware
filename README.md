@@ -1,6 +1,5 @@
-WARNING: This package is not yet stable.  Use at your own risk.
-
-Ember template compiler middleware.
+ember-template-middleware takes the functionallity of toranb's [ember-template-compiler](https://github.com/toranb/ember-template-compiler)
+and makes configurable middleware out of it.
 
 ##Features
 - Render ember templates in node js as middleware
